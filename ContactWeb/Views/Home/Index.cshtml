@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Save your contact details</h1>
+    <p class="lead">Save your contacts and be able to Create Delete and Update the contacts </p>
+    <p class="btn btn-primary btn-lg">@Html.ActionLink("Start", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="~/images/Admin.png" style="max-width:100%;"/>
+        </div>
+    <div class="col-md-4">
+        <img src="~/images/Users.jpg" style="max-width:100%;"/>
+        </div>
+    <div class="col-md-4">
+        <img src="~/images/Contacts.jpg" style="max-width:100%;"/>
+        <h2>Introduction To Java Programming</h2>
+        <p>This course teaches object-oriented programming using Java</p>
+        <p><a class="btn btn-default" href="http://majorguidancesolutions.com/courses/details/4">Learn more &raquo;</a></p>
+    </div>
+</div>
