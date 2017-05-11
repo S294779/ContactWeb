@@ -1,429 +1,96 @@
-C:\MSDev\ContactWeb\ContactWeb\bin\ApplicationInsights.config
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\csc.exe
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\System.Collections.Immutable.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\System.Reflection.Metadata.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\vbc.exe
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe
-C:\MSDev\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe.config
-C:\MSDev\ContactWeb\ContactWeb\bin\ContactWeb.dll.config
-C:\MSDev\ContactWeb\ContactWeb\bin\ContactWeb.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\ContactWeb.pdb
-C:\MSDev\ContactWeb\ContactWeb\bin\Antlr3.Runtime.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\EntityFramework.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.Agent.Intercept.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Web.Infrastructure.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Newtonsoft.Json.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Owin.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Helpers.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Mvc.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Optimization.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Razor.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\WebGrease.dll
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.Razor.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Antlr3.Runtime.pdb
-C:\MSDev\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\EntityFramework.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
-C:\MSDev\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\MSDev\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
-C:\MSDev\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
-C:\MSDev\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
-C:\MSDev\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
-C:\MSDev\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\ApplicationInsights.config
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\favicon.ico
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\MVC48Hours.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\sort_asc.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\sort_asc_disabled.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\sort_both.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\sort_desc.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\sort_desc_disabled.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\images\Sorting icons.psd
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\csc.exe
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.CSharp.Core.targets
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\System.Collections.Immutable.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\System.Reflection.Metadata.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\vbc.exe
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\VBCSCompiler.exe
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\roslyn\VBCSCompiler.exe.config
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\ContactWeb.dll.config
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\ContactWeb.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\ContactWeb.pdb
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Antlr3.Runtime.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\EntityFramework.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\EntityFramework.SqlServer.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.Agent.Intercept.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.DependencyCollector.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.PerfCounterCollector.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.Web.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.WindowsServer.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.ApplicationInsights.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.Core.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Cookies.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Facebook.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Google.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.OAuth.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Twitter.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Web.Infrastructure.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Newtonsoft.Json.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Owin.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Helpers.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Mvc.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Optimization.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Razor.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.Deployment.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.Razor.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\WebGrease.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.DependencyCollector.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.Web.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.ApplicationInsights.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Helpers.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Mvc.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Optimization.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.Razor.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.Deployment.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\System.Web.WebPages.Razor.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Antlr3.Runtime.pdb
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Newtonsoft.Json.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\EntityFramework.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\EntityFramework.SqlServer.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\obj\Debug\ContactWeb.dll
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\obj\Debug\ContactWeb.pdb
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_glass_40_ffc73d_1x400.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_highlight-soft_33_003147_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_highlight-soft_35_222222_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_highlight-soft_44_444444_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-bg_loop_25_000000_21x21.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-icons_222222_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-icons_4b8e0b_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-icons_a83300_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-icons_cccccc_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\Content\images\ui-icons_ffffff_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_glass_40_ffc73d_1x400.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_highlight-soft_33_003147_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_highlight-soft_35_222222_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_highlight-soft_44_444444_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-bg_loop_25_000000_21x21.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-icons_222222_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-icons_4b8e0b_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-icons_a83300_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-icons_cccccc_256x240.png
-G:\DevArena\TempMSDev\MVC48HourCleanup\Final\ContactWeb\bin\css\images\ui-icons_ffffff_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\ApplicationInsights.config
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\favicon.ico
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\MVC48Hours.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\sort_asc.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\sort_asc_disabled.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\sort_both.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\sort_desc.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\sort_desc_disabled.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\images\Sorting icons.psd
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\csc.exe
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\System.Collections.Immutable.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\System.Reflection.Metadata.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\vbc.exe
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe.config
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_glass_40_ffc73d_1x400.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_33_003147_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_35_222222_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_44_444444_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-bg_loop_25_000000_21x21.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-icons_222222_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-icons_4b8e0b_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-icons_a83300_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-icons_cccccc_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Content\images\ui-icons_ffffff_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_glass_40_ffc73d_1x400.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_33_003147_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_35_222222_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_44_444444_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-bg_loop_25_000000_21x21.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-icons_222222_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-icons_4b8e0b_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-icons_a83300_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-icons_cccccc_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\css\images\ui-icons_ffffff_256x240.png
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\ContactWeb.dll.config
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\ContactWeb.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\ContactWeb.pdb
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Antlr3.Runtime.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\EntityFramework.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.Agent.Intercept.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Web.Infrastructure.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Newtonsoft.Json.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Owin.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Helpers.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Mvc.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Optimization.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Razor.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\WebGrease.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.Razor.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Antlr3.Runtime.pdb
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\EntityFramework.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
-C:\MSDev\ContactWebFinal\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\ApplicationInsights.config
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\favicon.ico
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\MVC48Hours.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\sort_asc.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\sort_asc_disabled.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\sort_both.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\sort_desc.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\sort_desc_disabled.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\images\Sorting icons.psd
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\csc.exe
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\vbc.exe
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_glass_40_ffc73d_1x400.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_33_003147_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_35_222222_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_44_444444_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-bg_loop_25_000000_21x21.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-icons_222222_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-icons_4b8e0b_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-icons_a83300_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-icons_cccccc_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Content\images\ui-icons_ffffff_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_glass_40_ffc73d_1x400.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-hard_20_0972a5_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_33_003147_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_35_222222_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_44_444444_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_highlight-soft_80_eeeeee_1x100.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-bg_loop_25_000000_21x21.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-icons_222222_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-icons_4b8e0b_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-icons_a83300_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-icons_cccccc_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\css\images\ui-icons_ffffff_256x240.png
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\ContactWeb.dll.config
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\ContactWeb.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\ContactWeb.pdb
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Antlr3.Runtime.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\EntityFramework.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Newtonsoft.Json.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Owin.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Helpers.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Mvc.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Optimization.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Razor.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\WebGrease.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.Razor.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Antlr3.Runtime.pdb
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\EntityFramework.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
-C:\Users\bbsth\Desktop\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\ApplicationInsights.config
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\csc.exe
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\csc.exe.config
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\csc.rsp
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\csi.exe
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\csi.rsp
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.AppContext.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.IO.FileSystem.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\vbc.exe
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\vbc.exe.config
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\vbc.rsp
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\ContactWeb.dll.config
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\ContactWeb.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\ContactWeb.pdb
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Antlr3.Runtime.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\EntityFramework.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Owin.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Helpers.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Mvc.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Optimization.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Razor.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\WebGrease.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.Razor.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Antlr3.Runtime.pdb
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\EntityFramework.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
+c:\users\bbsth\onedrive\documents\visual studio 2017\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb

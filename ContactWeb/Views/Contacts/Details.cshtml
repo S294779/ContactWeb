@@ -1,12 +1,14 @@
-﻿@model ContactWeb.Models.Contact
+﻿@model ContactWeb.Contact
 
 @{
-    ViewBag.Title = "Contact Details";
+    ViewBag.Title = "Details";
 }
 
-<h2>@ViewBag.Title</h2>
+<h2>Details</h2>
 
 <div>
+    <h4>Contact</h4>
+    <hr />
     <dl class="dl-horizontal">
         <dt>
             @Html.DisplayNameFor(model => model.FirstName)
@@ -94,6 +96,14 @@
 
         <dd>
             @Html.DisplayFor(model => model.Zip)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.Email)
         </dd>
 
     </dl>

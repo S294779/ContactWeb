@@ -1,38 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
-using ContactWeb.Models;
 using Microsoft.AspNet.Identity;
 
 namespace ContactWeb.Controllers
 {
     public class ContactsController : Controller
     {
-        private ContactWebContext db = new ContactWebContext();
-
-        // GET: Contacts
+        
+        private ContactInfoEntities2 db = new ContactInfoEntities2();
         [Authorize]
+        // GET: Contacts
         public ActionResult Index()
-        {
-            var LogedInUserEmailaddress = User.Identity.Name;
-                if (LogedInUserEmailaddress == "bbstha143@gmail.com")
+        {// checking user is authorized or not 
+            if (CheckUserAuthorize() == true)    
             {
-                return View(db.Contacts.ToList());
-            }
+                // checking user is admin or not
+                if (CheckIfAdmin() == true)    
+                {
+                    var contacts = db.Contacts.Include(t => t.AspNetUser);
+                    return View(contacts);
+                }
                 else
-            { 
-            var userId = GetCurrentUserId();
-            return View(db.Contacts.Where(x => x.UserId == userId).ToList());
+                {
+                    var currentuser = User.Identity.GetUserId();
+                    var contact = db.Contacts.Where(t => t.UserId == currentuser);
+                    return View(contact.ToList());
+                }
+            }
+            else
+            {
+                return RedirectToAction("Login", "Account");
             }
         }
-
         // GET: Contacts/Details/5
-        [Authorize]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -40,7 +44,7 @@ namespace ContactWeb.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Contact contact = db.Contacts.Find(id);
-            if (contact == null || !EnsureIsUserContact(contact))
+            if (contact == null)
             {
                 return HttpNotFound();
             }
@@ -51,19 +55,18 @@ namespace ContactWeb.Controllers
         [Authorize]
         public ActionResult Create()
         {
-            
-            ViewBag.UserId = GetCurrentUserId();
+            ViewBag.UserId = new SelectList(db.AspNetUsers, "Id", "Email");
             return View();
         }
 
         // POST: Contacts/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize]
         public ActionResult Create([Bind(Include = "Id,UserId,FirstName,LastName,Email,PhonePrimary,PhoneSecondary,Birthday,StreetAddress1,StreetAddress2,City,State,Zip")] Contact contact)
         {
+            contact.UserId = User.Identity.GetUserId();
             if (ModelState.IsValid)
             {
                 db.Contacts.Add(contact);
@@ -71,7 +74,7 @@ namespace ContactWeb.Controllers
                 return RedirectToAction("Index");
             }
 
-            ViewBag.UserId = GetCurrentUserId();
+            ViewBag.UserId = new SelectList(db.AspNetUsers, "Id", "Email", contact.UserId);
             return View(contact);
         }
 
@@ -88,27 +91,26 @@ namespace ContactWeb.Controllers
             {
                 return HttpNotFound();
             }
-
-            ViewBag.UserId = GetCurrentUserId();
+            ViewBag.UserId = new SelectList(db.AspNetUsers, "Id", "Email", contact.UserId);
             return View(contact);
         }
 
         // POST: Contacts/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
-        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         [Authorize]
         public ActionResult Edit([Bind(Include = "Id,UserId,FirstName,LastName,Email,PhonePrimary,PhoneSecondary,Birthday,StreetAddress1,StreetAddress2,City,State,Zip")] Contact contact)
         {
+            contact.UserId = User.Identity.GetUserId();
             if (ModelState.IsValid)
             {
                 db.Entry(contact).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-
-            ViewBag.UserId = GetCurrentUserId();
+            ViewBag.UserId = new SelectList(db.AspNetUsers, "Id", "Email", contact.UserId);
             return View(contact);
         }
 
@@ -121,7 +123,7 @@ namespace ContactWeb.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Contact contact = db.Contacts.Find(id);
-            if (contact == null || !EnsureIsUserContact(contact))
+            if (contact == null)
             {
                 return HttpNotFound();
             }
@@ -131,14 +133,9 @@ namespace ContactWeb.Controllers
         // POST: Contacts/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        [Authorize]
         public ActionResult DeleteConfirmed(int id)
         {
             Contact contact = db.Contacts.Find(id);
-            if (!EnsureIsUserContact(contact))
-            {
-                return HttpNotFound();
-            }
             db.Contacts.Remove(contact);
             db.SaveChanges();
             return RedirectToAction("Index");
@@ -153,14 +150,35 @@ namespace ContactWeb.Controllers
             base.Dispose(disposing);
         }
 
-        public Guid GetCurrentUserId()
+        public Boolean CheckUserAuthorize()
         {
-            return new Guid(User.Identity.GetUserId());
+            var strUserID = User.Identity.GetUserId();
+            var strUserName = User.Identity.GetUserName();
+            if (strUserID != null && strUserName != "")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
+        public Boolean CheckIfAdmin()
+        {
+            if (User.Identity.GetUserName() == "admin@gmail.com")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
         private bool EnsureIsUserContact(Contact contact)
         {
-            return contact.UserId == GetCurrentUserId();
+            return contact.UserId == User.Identity.GetUserId();
         }
     }
 }

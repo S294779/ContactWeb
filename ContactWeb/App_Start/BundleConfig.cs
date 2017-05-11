@@ -29,7 +29,7 @@ namespace ContactWeb
                       "~/css/jquery.dataTables_themeroller.css",
                       "~/css/dataTables.bootstrap.min.css",
                       "~/css/colReorder.bootstrap.min.css",
-                      "~/css/jquery-ui.min.css", 
+                      "~/css/jquery-ui.min.css",
                       "~/css/site.css"));
         }
     }
