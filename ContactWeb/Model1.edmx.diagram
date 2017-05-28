@@ -4,10 +4,10 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="47775d99fc2446d69231598596fa9f08" Name="Diagram1">
+      <Diagram DiagramId="47775d99fc2446d69231598596fa9f08" Name="Diagram1" ZoomLevel="97">
         <EntityTypeShape EntityType="ContactInfoModel.AspNetUser" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="ContactInfoModel.Contact" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <AssociationConnector Association="ContactInfoModel.FK_Contacts_AspNetUsers" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ContactInfoModel.Contact" Width="1.5" PointX="3" PointY="1" />
+        <AssociationConnector Association="ContactInfoModel.FK_Contacts_AspNetUsers" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
